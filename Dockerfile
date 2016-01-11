@@ -26,6 +26,3 @@ RUN chmod +x /root/.node-red/entrypoint.sh
 
 EXPOSE 1880
 ENTRYPOINT ["/root/.node-red/entrypoint.sh"]
-
-#ENTRYPOINT ["node"]
-#CMD ["red.js"]
