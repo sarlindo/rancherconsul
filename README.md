@@ -53,7 +53,7 @@ Now scale it back to 1 and see if the container is removed from consul and only 
 
 ![alt text](https://cloud.githubusercontent.com/assets/6406166/12301170/a9a0535c-b9ec-11e5-8b19-3aebfba0f3ff.png)
 
-### Rancher to Consul Integration - the actually code/flow Screen Shot
+### Rancher to Consul Integration - the actual code/flow Screen Shot
 
 ![alt text](https://cloud.githubusercontent.com/assets/6406166/12301167/a99a5f10-b9ec-11e5-9095-bd03efb3d582.png)
 
